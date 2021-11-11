@@ -1,0 +1,22 @@
+
+
+.backgroundimg {
+    // height: 50%;
+    width: 100%;
+    // background-size: 100%;
+    // background-size: 100% 100%;
+  }
+
+  .container{
+      overflow: hidden;
+    
+  }
+
+  @media (min-width: 992px) {
+    .app {
+      max-width: 100%;
+      margin: 0 auto;
+    }
+  }
+
+  
