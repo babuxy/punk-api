@@ -1,0 +1,41 @@
+.main-grid-container{
+    // width: 25%;
+    // flex: 1;
+    grid-template-columns: 1fr 1fr;
+    display: inline-flex;
+    position: relative;
+    background-color: #c7be118f;
+    
+    overflow-x: auto;
+   
+}
+
+.beer-tiles-name{
+    display: inline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+    width: auto;
+    margin-left: 5px;
+    background-color: bisque;
+    vertical-align: top;
+    ;
+} 
+    
+.beer-tiles-img{
+    // display: inline;
+    width: 370px;
+    // height: 200px;
+    margin: 10px 20px;
+    margin-left: 0;
+    padding-top: 50px;
+    // flex: auto;
+    // flex-shrink: 0;
+    border-radius: 15px;
+    box-shadow: 0px 10px 20px;
+  
+}
+
+
+
+
+
