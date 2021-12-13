@@ -6,26 +6,7 @@ import BeerTiles from '../../components/BeerTiles/BeerTiles';
 
 
 const Home = () => {
-    // const { unsortedBeers } = props;
-
-    let backgroundImg = WallpaperDog;
-    let altBackgroundImg = "Any time is Beer Time !!!";
-    
-
-    return (
-        <>
-        {/* <div style="background-image: {backgroundImg};"></div> */}
-        <div className="home">
-
-        
   
-            <BeerTiles title="Beers" />
-     
-
-            
-        </div>
-        </>
-    )
 }
 
 export default Home
